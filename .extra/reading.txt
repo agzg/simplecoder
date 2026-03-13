@@ -1,0 +1,10 @@
+Novelty:
+https://arxiv.org/pdf/2512.24601
+
+Context / memory management:
+Chain of Thought: https://arxiv.org/pdf/2201.11903
+Tree of Thoughts: https://arxiv.org/pdf/2305.10601
+Graph of Thoughts: https://arxiv.org/pdf/2308.09687; https://community.openai.com/t/graph-of-thought-as-prompt/575572/3
+https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+Perusall Week 6: ReWOO? Memory streams with reflections?
+
