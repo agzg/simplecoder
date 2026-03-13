@@ -66,9 +66,9 @@ uv run simplecoder --dangerous "implement and test a calculator module"
 1. **Make the game**:
 Designed the adventure game (in `game.py`) after researching Harry Potter and the Chamber of Secrets, wrote the code, debugged it, and ran the game twice losing and winning. We then show you some ways in which it tries to prevent hijacking and preserves context from the conversation history.
 
-<video src="./demo/1_make_game.mov" controls width="600"></video>
+https://github.com/user-attachments/assets/eb1a8b6b-1ec0-4857-8a58-5d9a1b463644
 
 2. **Add Voldemort and fix errors**
 We ran out of credits before adding Voldemort, so I use another account's credit by switching out the API key in the .env file and allow it to read the file without the context from the conversation history earlier, and then adds the Voldemort character. We intentionally left some syntax errors, and it identifies them via reflections and corrects them before proceeding. Then it plays the game once and is lucky enough not to be killed by Voldemort.
 
-<video src="./demo/2_add_voldemort.mov" controls width="600"></video>
+https://github.com/user-attachments/assets/f5c4f572-29b5-4cbc-94e5-be1aa75709d9
