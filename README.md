@@ -56,10 +56,12 @@ uv run simplecoder --dangerous "implement and test a calculator module"
 
 ## Demo
 
-1. **Make the game**:
+1. **Make the game**
+
 https://github.com/user-attachments/assets/eb1a8b6b-1ec0-4857-8a58-5d9a1b463644
 
 2. **Add features and fix errors**
+
 https://github.com/user-attachments/assets/f5c4f572-29b5-4cbc-94e5-be1aa75709d9
 
 ## Authors
